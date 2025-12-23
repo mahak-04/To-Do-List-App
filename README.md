@@ -40,8 +40,8 @@ This project is excellent for learning about:
 
 ## ✍️ Author
 
-* Your Name - [Link to your GitHub Profile]
+* Mahak
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file (optional) for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
