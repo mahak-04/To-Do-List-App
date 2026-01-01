@@ -40,7 +40,7 @@ This project is excellent for learning about:
 
 ## ✍️ Author
 
-* Mahak
+* Mahak.
 
 ## License
 
