@@ -2,20 +2,20 @@
 
 A basic, beginner-friendly web application to manage a list of tasks. This project demonstrates fundamental concepts of DOM manipulation using Vanilla JavaScript.
 
-## ✨ Features
+##  Features
 
 * **Add New Tasks:** Easily input new tasks using the text field.
 * **Mark as Complete:** Click on any task to toggle its completed status (it will gain a strike-through).
 * **Delete Tasks:** Remove tasks from the list using the 'Delete' button.
 * **Responsive Design:** Usable on both desktop and mobile screens.
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * **HTML5:** Structure of the application.
 * **CSS3:** Styling and layout.
 * **JavaScript (ES6+):** Core logic for adding, completing, and deleting tasks (DOM manipulation).
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally, simply follow these steps:
 
@@ -30,7 +30,7 @@ To run this project locally, simply follow these steps:
 3.  **Open the file:**
     Open the `index.html` file in your preferred web browser (e.g., Chrome, Firefox) by double-clicking it.
 
-## 💡 Key JavaScript Concepts Demonstrated
+##  Key JavaScript Concepts Demonstrated
 
 This project is excellent for learning about:
 
@@ -38,7 +38,7 @@ This project is excellent for learning about:
 * Manipulating **DOM classes** (`.classList.toggle()`)
 * Adding **Event Listeners** (`.addEventListener()`) to handle user interaction.
 
-## ✍️ Author
+##  Author
 
 * Mahak
 
